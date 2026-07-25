@@ -7,13 +7,22 @@
     <itunes:author>owarai-lab</itunes:author>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Sat, 25 Jul 2026 01:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 01:48:21 +0000</lastBuildDate>
+    <item>
+      <title>ぱんぴーの今日ってどうなん? — 2026-07-25_auto</title>
+      <description>偉い専門家じゃない、俺たち一般人が、今日のニュースを笑いながら分かる5分。ぱんたろう(ボケ・ニュースの読み手)とぴーちゃん(ツッコミ・核心の供給役)が、経済・スポーツ・社会の話題を毎朝お届け。</description>
+      <enclosure url="https://kan22dh.github.io/owarai-lab-media/audio/2026-07-25_auto.mp3" length="492662" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-25_auto</guid>
+      <pubDate>Sat, 25 Jul 2026 01:48:20 +0000</pubDate>
+      <itunes:duration>00:01:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ぱんぴーの今日ってどうなん? — 2026-07-24_ep002_voicevox</title>
       <description>偉い専門家じゃない、俺たち一般人が、今日のニュースを笑いながら分かる5分。ぱんたろう(ボケ・ニュースの読み手)とぴーちゃん(ツッコミ・核心の供給役)が、経済・スポーツ・社会の話題を毎朝お届け。</description>
       <enclosure url="https://kan22dh.github.io/owarai-lab-media/audio/2026-07-24_ep002_voicevox.mp3" length="1501029" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-24_ep002_voicevox</guid>
-      <pubDate>Sat, 25 Jul 2026 01:44:06 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 01:47:17 +0000</pubDate>
       <itunes:duration>00:03:33</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -22,7 +31,7 @@
       <description>偉い専門家じゃない、俺たち一般人が、今日のニュースを笑いながら分かる5分。ぱんたろう(ボケ・ニュースの読み手)とぴーちゃん(ツッコミ・核心の供給役)が、経済・スポーツ・社会の話題を毎朝お届け。</description>
       <enclosure url="https://kan22dh.github.io/owarai-lab-media/audio/2026-07-24_ep001.mp3" length="1664598" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-24_ep001</guid>
-      <pubDate>Sat, 25 Jul 2026 01:44:06 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 01:47:17 +0000</pubDate>
       <itunes:duration>00:05:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
