@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ぱんぴーの今日ってどうなん?</title>
+    <description>偉い専門家じゃない、俺たち一般人が、今日のニュースを笑いながら分かる5分。ぱんたろう(ボケ・ニュースの読み手)とぴーちゃん(ツッコミ・核心の供給役)が、経済・スポーツ・社会の話題を毎朝お届け。</description>
+    <language>ja</language>
+    <itunes:author>owarai-lab</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Sat, 25 Jul 2026 01:45:13 +0000</lastBuildDate>
+    <item>
+      <title>ぱんぴーの今日ってどうなん? — 2026-07-24_ep002_voicevox</title>
+      <description>偉い専門家じゃない、俺たち一般人が、今日のニュースを笑いながら分かる5分。ぱんたろう(ボケ・ニュースの読み手)とぴーちゃん(ツッコミ・核心の供給役)が、経済・スポーツ・社会の話題を毎朝お届け。</description>
+      <enclosure url="https://kan22dh.github.io/owarai-lab-media/audio/2026-07-24_ep002_voicevox.mp3" length="1501029" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-24_ep002_voicevox</guid>
+      <pubDate>Sat, 25 Jul 2026 01:44:06 +0000</pubDate>
+      <itunes:duration>00:03:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ぱんぴーの今日ってどうなん? — 2026-07-24_ep001</title>
+      <description>偉い専門家じゃない、俺たち一般人が、今日のニュースを笑いながら分かる5分。ぱんたろう(ボケ・ニュースの読み手)とぴーちゃん(ツッコミ・核心の供給役)が、経済・スポーツ・社会の話題を毎朝お届け。</description>
+      <enclosure url="https://kan22dh.github.io/owarai-lab-media/audio/2026-07-24_ep001.mp3" length="1664598" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-24_ep001</guid>
+      <pubDate>Sat, 25 Jul 2026 01:44:06 +0000</pubDate>
+      <itunes:duration>00:05:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
