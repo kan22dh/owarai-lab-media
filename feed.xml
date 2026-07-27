@@ -20,7 +20,25 @@
     </itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 27 Jul 2026 12:52:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 12:58:29 +0000</lastBuildDate>
+    <item>
+      <title>第2回 2026-07-27</title>
+      <description>【朝5分・毎日更新のニュース漫才】
+
+今日のニュースを、笑いながら5分で分かる番組です。司会のななみが事実を伝え、ぱんたろう(ボケ)が素朴な疑問でつまずき、ぴーちゃん(ツッコミ・解説)が専門用語を誰でも分かる言葉に噛み砕きます。経済・政治・社会・スポーツ・芸能を毎朝お届け。通勤中に聴けば、今日の会議や雑談で話題についていけます。偉い専門家ではなく、普通に働いている側から見たニュース解説です。
+
+笑うのは、諦めたからではありません。笑って身構えを解いてから、その日いちばん大事なことを一つだけ置いていきます。締めはいつも同じ問いです——**「それ、誰の仕事なん?」**誰かがやるはずやと思って、結局誰もやっていない。そこに気づいた人が、その場で動く。そういう5分を目指しています。
+
+ほな、つらがんなや。</description>
+      <enclosure url="https://kan22dh.github.io/owarai-lab-media/audio/2026-07-27_auto_voicevox.mp3" length="3009981" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-27_auto_voicevox</guid>
+      <pubDate>Mon, 27 Jul 2026 12:58:29 +0000</pubDate>
+      <itunes:title>第2回 2026-07-27</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:06:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>第1回 2026-07-26</title>
       <description>【朝5分・毎日更新のニュース漫才】
