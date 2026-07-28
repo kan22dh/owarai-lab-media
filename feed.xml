@@ -20,7 +20,7 @@
     </itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Tue, 28 Jul 2026 23:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 23:49:15 +0000</lastBuildDate>
     <item>
       <title>第4回 2026-07-29</title>
       <description>【朝5分・毎日更新のニュース漫才】
@@ -30,13 +30,13 @@
 笑うのは、諦めたからではありません。笑って身構えを解いてから、その日いちばん大事なことを一つだけ置いていきます。締めはいつも同じ問いです——**「それ、誰の仕事なん?」**誰かがやるはずやと思って、結局誰もやっていない。そこに気づいた人が、その場で動く。そういう5分を目指しています。
 
 ほな、つらがんなや。</description>
-      <enclosure url="https://kan22dh.github.io/owarai-lab-media/audio/2026-07-29_auto_voicevox.mp3" length="2520621" type="audio/mpeg"/>
+      <enclosure url="https://kan22dh.github.io/owarai-lab-media/audio/2026-07-29_auto_voicevox.mp3" length="2593317" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-07-29_auto_voicevox</guid>
-      <pubDate>Tue, 28 Jul 2026 23:44:58 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 23:49:15 +0000</pubDate>
       <itunes:title>第4回 2026-07-29</itunes:title>
       <itunes:episode>4</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:duration>00:05:34</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
