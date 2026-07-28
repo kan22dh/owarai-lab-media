@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>残念な世の中、笑うたろか</title>
+    <title>誰の仕事やねん ニュース</title>
     <description>【朝5分・毎日更新のニュース漫才】
 
 今日のニュースを、笑いながら5分で分かる番組です。司会のななみが事実を伝え、ぱんたろう(ボケ)が素朴な疑問でつまずき、ぴーちゃん(ツッコミ・解説)が専門用語を誰でも分かる言葉に噛み砕きます。経済・政治・社会・スポーツ・芸能を毎朝お届け。通勤中に聴けば、今日の会議や雑談で話題についていけます。偉い専門家ではなく、普通に働いている側から見たニュース解説です。
@@ -20,7 +20,25 @@
     </itunes:owner>
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
-    <lastBuildDate>Mon, 27 Jul 2026 21:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 23:44:59 +0000</lastBuildDate>
+    <item>
+      <title>第4回 2026-07-29</title>
+      <description>【朝5分・毎日更新のニュース漫才】
+
+今日のニュースを、笑いながら5分で分かる番組です。司会のななみが事実を伝え、ぱんたろう(ボケ)が素朴な疑問でつまずき、ぴーちゃん(ツッコミ・解説)が専門用語を誰でも分かる言葉に噛み砕きます。経済・政治・社会・スポーツ・芸能を毎朝お届け。通勤中に聴けば、今日の会議や雑談で話題についていけます。偉い専門家ではなく、普通に働いている側から見たニュース解説です。
+
+笑うのは、諦めたからではありません。笑って身構えを解いてから、その日いちばん大事なことを一つだけ置いていきます。締めはいつも同じ問いです——**「それ、誰の仕事なん?」**誰かがやるはずやと思って、結局誰もやっていない。そこに気づいた人が、その場で動く。そういう5分を目指しています。
+
+ほな、つらがんなや。</description>
+      <enclosure url="https://kan22dh.github.io/owarai-lab-media/audio/2026-07-29_auto_voicevox.mp3" length="2520621" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-29_auto_voicevox</guid>
+      <pubDate>Tue, 28 Jul 2026 23:44:58 +0000</pubDate>
+      <itunes:title>第4回 2026-07-29</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>00:05:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>第3回 2026-07-28</title>
       <description>【朝5分・毎日更新のニュース漫才】
